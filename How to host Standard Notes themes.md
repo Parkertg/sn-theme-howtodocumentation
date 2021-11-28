@@ -165,5 +165,7 @@ Github: https://github.com/Parkertg/sn-theme-monochrome-dark
 Install Link: https://listed.to/p/eY9kuTLQzB
 
 
-## Suggest Edit on Github
-https://github.com/Parkertg/sn-theme-howtodocumentation
+---
+
+**Have an improvement or suggestion for this document?**
+Go to: https://github.com/Parkertg/sn-theme-howtodocumentation
