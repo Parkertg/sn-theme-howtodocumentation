@@ -108,7 +108,7 @@ It's works pretty well to use Standard Notes to host this file via listed.to.
 
 	```
 	---
-  metatype: json
+	  metatype: json
 	---
 	```
 
@@ -164,3 +164,6 @@ You should be good to go.. share your install link.
 Github: https://github.com/Parkertg/sn-theme-monochrome-dark
 Install Link: https://listed.to/p/eY9kuTLQzB
 
+
+## Suggest Edit on Github
+https://github.com/Parkertg/sn-theme-howtodocumentation
