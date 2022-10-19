@@ -43,8 +43,8 @@ It'll be significantly easier to achieve if you use Github to host your theme/ex
 
 ___
 # 2. Make Theme
-- My top tip is to enable 'Developer Tools'.. `(view) > (Toggle Developer Tools)`
-
+- Useful tip: enable & utilitize the web browser's 'Developer Tools' to toy with active colors in the app
+  - for in the Desktop App: `(view) > (Toggle Developer Tools)`
 - find the styles tab and scroll down to :root{... where you can test out updating some various colors etc.
 
 - most of the effort for getting your themeing will be to override those root color variables
